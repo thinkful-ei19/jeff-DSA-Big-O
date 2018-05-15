@@ -23,3 +23,5 @@ function generateFib(num) {
   // we return `result`.
   return result;
 }
+//O(n^2)
+//you go through your for loop and it will grow linearly
