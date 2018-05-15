@@ -25,3 +25,6 @@ function generateFib(num) {
 }
 //O(n^2)
 //you go through your for loop and it will grow linearly
+//Wrong
+
+//Correct will be O(n)

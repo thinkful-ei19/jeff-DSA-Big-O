@@ -20,3 +20,6 @@ function efficientSearch(array, item) {
   }
   return -1;
 }
+
+//Wrong Didn't complete from mistake of skipping 
+//Correct Answer will be (O(log n))
