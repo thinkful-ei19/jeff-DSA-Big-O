@@ -10,3 +10,5 @@ function isPrime(n) {
   }
   return true;
 }
+//O(n)
+//looks for n to meet requirements,plus it increments 
