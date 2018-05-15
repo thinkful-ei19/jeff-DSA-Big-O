@@ -5,3 +5,5 @@ function naiveSearch(array, item) {
       }
   }
 }
+//O(n)
+// you array goes through your loop once 
