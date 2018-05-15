@@ -5,3 +5,5 @@ function createPairs(arr) {
       }
   }
 }
+// O(N^2) 
+// there is one nested loop
