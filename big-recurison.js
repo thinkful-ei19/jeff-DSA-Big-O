@@ -62,8 +62,8 @@ function reverseString(str) {
     }
     return reverseString(str.slice(1)) + str[0];
 }
-//O(1) constant Time
-// it check take one step 
+//Linear O(n)
+// checking for each string 
 
 /*=================================================================================
 Exercise 4 - Triangular Number
