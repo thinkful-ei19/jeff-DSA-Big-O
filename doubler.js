@@ -4,3 +4,6 @@ function doubleArrayValues(array) {
   }
   return array;
 }
+
+//O(n) 
+//you loop through once 
