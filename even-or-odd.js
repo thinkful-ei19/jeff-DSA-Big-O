@@ -5,3 +5,4 @@ function isEven(value){
   else
     return false;
 }
+//O(1) The value will stay constant 
